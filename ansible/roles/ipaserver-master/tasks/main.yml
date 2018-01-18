@@ -59,6 +59,7 @@
     - 443
     - 8080
     - 8443
+    - 9090
 
 - name: Set ipv4_dns fact
   tags:
